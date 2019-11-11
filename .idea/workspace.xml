@@ -11,7 +11,7 @@
   <component name="ProjectId" id="1TQnSljn31REFNGMCEQz8ArHswB" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/angelcam/web-v2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cats/css" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -22,7 +22,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../cats" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../cats/css" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -48,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573401188530</updated>
-      <workItem from="1573401191475" duration="30894000" />
+      <workItem from="1573401191475" duration="31642000" />
     </task>
     <servers />
   </component>

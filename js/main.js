@@ -86,6 +86,7 @@ function prepareReply(order, shipped = false) {
   }
 
   constructBotReply("You can refer to carrier for more detailed information. Your DHL tracking number is: " + order.dhl_tracking_id)
+  constructBotReply("Anything else I can help you with?")
 
 }
 
